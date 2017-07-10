@@ -1,8 +1,8 @@
 This client/server number guessing game runs on Mac OS X terminal.
 
-server.cpp takes a port number as command line arguments.
+server.cpp takes a port number as command line argument.
 
-client.cpp takes an IP address and a port number as command line argument.
+client.cpp takes an IP address and a port number as command line argument. 
 
 The program lets users play a simple number guessing game. The client connects
 to the server and creates a username. The server will save the username and
